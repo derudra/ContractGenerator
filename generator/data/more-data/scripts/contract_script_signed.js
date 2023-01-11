@@ -1,3 +1,0 @@
-function printContract() {
-    window.print();
-}

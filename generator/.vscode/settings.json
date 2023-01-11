@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "*.php.inc": "php",
-    "*.phpsrc": "php",
-    "*.html.xml": "html",
-    "*.html.inc": "html"
-  }
-}
